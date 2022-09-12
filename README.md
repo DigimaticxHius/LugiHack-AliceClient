@@ -1,1 +1,2 @@
 # LugiHack
+LugiHack is Strong 
