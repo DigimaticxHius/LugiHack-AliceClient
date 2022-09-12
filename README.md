@@ -9,4 +9,8 @@ There is no longer any reason to make this client private, so I'm making it publ
 
 I don't recommend using it because it's a trash client, but I hope you enjoy it
 
-Link Discord LugiHack Public:https://discord.gg/EtTGvzt3nS 
+**Link Discord LugiHack :** https://discord.gg/EtTGvzt3nS 
+
+I have permission from developer lugiHack
+
+Discord: ! Hius | ハイウス#6400
