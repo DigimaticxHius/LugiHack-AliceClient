@@ -1,11 +1,10 @@
 # LugiHack
 LugiHack is Strong 
 
-**Good Bye LuigiHack**
 
-2021/10/17～2022/9/11
 
-There is no longer any reason to make this client private, so I'm making it public
+
+Không còn bất kỳ lý do gì để đặt ứng dụng khách này ở chế độ riêng tư, vì vậy tôi đang đặt nó ở chế độ công khai
 
 
 
